@@ -1,0 +1,15 @@
+{
+    "Fuel_Type": {
+        "CNG": "0",
+        "Diesel": "1",
+        "Petrol": "2"
+    },
+    "Seller_Type": {
+        "Dealer": "0",
+        "Individual": "1"
+    },
+    "Transmission": {
+        "Automatic": "0",
+        "Manual": "1"
+    }
+}
